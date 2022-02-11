@@ -1,2 +1,2 @@
 # CommonSenseBill
-A Bill which the People of the United States of America can submit requested changes until the bill will be finalized and sent to Congress on 07/01/2020.
+A multi-part bill for the People of the United States of America to add their thoughts to and we can submit to the Federal Government.
